@@ -1,0 +1,25 @@
+.navbar2{
+    position: sticky;
+    top: 150px;
+    z-index: 2;
+}
+.marginbody{
+    margin-top: 250px;
+}
+.uomo{
+    color: rgba(0, 0, 255, 0.74);
+}
+.donna{
+    color: rgb(168, 43, 226);
+}
+.baby{
+    color: rgb(23, 235, 235);
+}
+.box{
+    list-style: none;
+    
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
